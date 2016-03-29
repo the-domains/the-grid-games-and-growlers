@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9444496246122717
+  lightness: 0.13100284459256062
+  rhythmicContrast: 0.1090951510351249
+  saturation: 0.14137388798997197
+cta: {}
+layout_spectrum: 0.3293179346826428
+name: 'The Grid: Games and Growlers'
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.7051102741445148
