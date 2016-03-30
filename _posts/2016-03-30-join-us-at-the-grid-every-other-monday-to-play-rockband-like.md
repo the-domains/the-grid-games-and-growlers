@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Join us at The Grid every other Monday to play Rockband like you've never played before! It's Karaoke with an exciting twist! Professional lighting, drums, stage and sound brings your gaming experience to the next level."
-datePublished: '2016-03-30T02:18:20.313Z'
-dateModified: '2016-03-30T02:18:09.834Z'
+datePublished: '2016-03-30T02:30:25.876Z'
+dateModified: '2016-03-30T02:29:56.552Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-30-join-us-at-the-grid-every-other-monday-to-play-rockband-like.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-30-join-us-at-the-grid-every-other-monday-to-play-rockband-like.md
-published: true
 url: join-us-at-the-grid-every-other-monday-to-play-rockband-like/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/529a88d2-9683-48c9-8bed-bcea4f61dd70.jpg)
+
 Join us at The Grid every other Monday to play Rockband like you've never played before! It's Karaoke with an exciting twist! Professional lighting, drums, stage and sound brings your gaming experience to the next level.
 
 Over 900 songs and adding more each week to help you fulfill your rock n' roll fantasy.
