@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[America's first Synthwave Venue and Arizona's first Indie-Arcade]]></title>
         <description><![CDATA[America's first Synthwave Venue and Arizona's first Indie-Arcade]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-grid-games-and-growlers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 01:01:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 01:04:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-grid-games-and-growlers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.facebook.com/events/511911992347355/</p>]]></description>
+            <link>https://thegrid.ai/the-grid-games-and-growlers/254fddbd-818e-4bb9-a177-0a1d5f5c4195/index.html</link>
+            <guid isPermaLink="false">254fddbd-818e-4bb9-a177-0a1d5f5c4195</guid>
+            <pubDate>Wed, 30 Mar 2016 01:04:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6dd61f9-d208-4230-9ea7-b10c442606a7.jpg">]]></description>
-            <link>undefined387afa2e-1443-4b64-be18-ed47a25af844/index.html</link>
+            <link>https://thegrid.ai/the-grid-games-and-growlers/387afa2e-1443-4b64-be18-ed47a25af844/index.html</link>
             <guid isPermaLink="false">387afa2e-1443-4b64-be18-ed47a25af844</guid>
             <pubDate>Wed, 30 Mar 2016 01:00:41 GMT</pubDate>
         </item>
