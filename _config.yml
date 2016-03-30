@@ -22,10 +22,10 @@ color:
     - '#e3fefe'
     - '#8d80f2'
     - '#a9d8fe'
-  brandStrength: 0.9444496246122717
-  lightness: 0.3125
-  saturation: 0.14137388798997197
-  rhythmicContrast: 0.5
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose:
   - name: null
     item: null
