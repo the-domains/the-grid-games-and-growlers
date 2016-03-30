@@ -1,6 +1,6 @@
 name: 'The Grid: Games and Growlers'
 favicon: null
-layout_spectrum: 0.74887
+layout_spectrum: 0.55555
 typography_spectrum: 0.31848
 title: "The Grid: America's first Synthwave Venue and Arizona's first Indie-Arcade"
 cta:
@@ -23,7 +23,7 @@ color:
     - '#8d80f2'
     - '#a9d8fe'
   brandStrength: 0.125
-  lightness: 0.0625
+  lightness: 0.25
   saturation: 0
   rhythmicContrast: 0.5
 purpose:
