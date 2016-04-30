@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '8-Bit Comedy Night - May 04, 2016'
-datePublished: '2016-04-30T17:02:10.309Z'
-dateModified: '2016-04-30T17:01:54.543Z'
+datePublished: '2016-04-30T17:10:34.285Z'
+dateModified: '2016-04-30T17:10:34.216Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-30-8-bit-comedy-night-may-04-2016.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +18,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-30-8-bit-comedy-night-may-04-2016.md
-published: true
 url: 8-bit-comedy-night-may-04-2016/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e9ef0d1-a1a5-4db0-aca4-f69d0ffec626.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7de9a581-ff58-4c01-8eba-3b07ff6b13f9.jpg)
 
 [8-Bit Comedy Night - May 04, 2016][0]
 
