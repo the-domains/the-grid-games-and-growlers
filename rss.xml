@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid: America's first Synthwave Venue and Arizona's first Indie-Arcade]]></description>
         <link>https://thegrid.ai/the-grid-games-and-growlers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 17:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 17:33:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-grid-games-and-growlers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,6 +15,14 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>May 20 at 9 AM to May 22 at 9 PM</p>]]></description>
+            <link>https://thegrid.ai/the-grid-games-and-growlers/may-20-at-9-am-to-may-22-at-9-pm/index.html</link>
+            <guid isPermaLink="false">7b37ef35-f7b8-4a58-aed5-66770c2775ad</guid>
+            <pubDate>Sat, 30 Apr 2016 17:31:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Join us every 3rd Wednesday of the month for Artemis at The Grid!</p>]]></description>
             <link>https://thegrid.ai/the-grid-games-and-growlers/90037a8a-0483-4362-870b-3e751538b80b/index.html</link>
             <guid isPermaLink="false">90037a8a-0483-4362-870b-3e751538b80b</guid>
             <pubDate>Sat, 30 Apr 2016 17:28:10 GMT</pubDate>
@@ -67,13 +75,6 @@
             <link>https://thegrid.ai/the-grid-games-and-growlers/httpswwwtaphuntercomlocationthe-grid-games-and-growle/index.html</link>
             <guid isPermaLink="false">8d224771-6008-4807-9941-4dc53b34d812</guid>
             <pubDate>Sat, 30 Apr 2016 16:49:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6dd61f9-d208-4230-9ea7-b10c442606a7.jpg">]]></description>
-            <link>https://thegrid.ai/the-grid-games-and-growlers/387afa2e-1443-4b64-be18-ed47a25af844/index.html</link>
-            <guid isPermaLink="false">387afa2e-1443-4b64-be18-ed47a25af844</guid>
-            <pubDate>Wed, 30 Mar 2016 01:00:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
